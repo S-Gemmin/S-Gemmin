@@ -3,7 +3,7 @@
 ### 🎓 About Me
 - 🎯 Computing Science Honours Student at Simon Fraser University (Expected Dec 2026)
 - 📖 Specializing in Machine Learning | Statistics Minor 
-- 🏆 Associate's in Computer Science from Langara College (Graduated with Distinction)
+- 🏆 Associate's in Computer Science from Langara College
 
 ### 🛠️ Tech Stack
 **Languages:** C++ | C# | C | Python | Java | MySQL
